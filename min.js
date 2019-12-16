@@ -9,3 +9,6 @@ function min(a, b){
 }
 
 min(1, -9)
+
+
+
